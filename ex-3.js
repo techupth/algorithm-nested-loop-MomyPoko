@@ -11,4 +11,4 @@ function multiplicationTable(n) {
   return nullString;
 }
 
-console.log(multiplicationTable(5));
+console.log(multiplicationTable(10));
